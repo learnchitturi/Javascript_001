@@ -1,0 +1,60 @@
+.tumbhnail {
+  width: 300px;
+  display: block;
+}
+
+
+.viedo-title {
+  margin-top: 0;
+  margin-bottom: 12px; 
+  font-size: small; 
+  font-weight: bold;  
+}
+
+  .viedo-author {
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: rgb(87, 81, 81);
+    font-size: small;
+    font-style: solid;
+  }
+  .viedo-stats {
+  width: 300px;
+  margin-top: 0;
+  color: rgb(87, 81, 81);
+  font-size: small;
+  font-style: solid;
+}
+.viedo-preview {
+  width: 300px;
+  display: inline-block;
+}
+
+.viedo-info-grid {
+  display: grid;
+  grid-template-columns: 50px 250px;
+}
+
+.channel-picture {
+  background-color: grey;
+}
+
+.viedo-info {
+
+  background-color: grey;
+}
+
+.profile-picture {
+  width: 40px;
+  border-radius: 50px;
+}
+
+.thumbnail-row {
+  margin-bottom: 12px;
+}
+
+.viedo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  
+}

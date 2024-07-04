@@ -1,0 +1,26 @@
+.dog-dog {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 100px;
+  vertical-align: middle;
+}
+.what-happening {
+  font-size: 18px;
+  color: grey;
+  width: 300px;
+  vertical-align: middle;
+  border: none;
+}
+.tweet {
+  color: white;
+  background-color: rgb(62, 127, 219);
+  border: none;
+  border-radius: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+  vertical-align: middle;
+}

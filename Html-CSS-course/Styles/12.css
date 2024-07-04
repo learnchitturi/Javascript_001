@@ -1,0 +1,91 @@
+.div-0 {
+  display: flex;
+}
+.div-1 {
+  background-color: lightblue;
+  width: 200px;
+}
+
+.div-2 {
+  background-color: lightpink;
+  width: 75px;
+}
+
+.item-1 {
+  background-color: lightblue;
+  width: 50px;
+}
+
+.item-2 {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.item-3 {
+  background-color: lightblue;
+  width: 75px;
+}
+
+.list-3 {
+  display: flex;
+  flex-direction: row;
+}
+
+.same {
+  background-color: lightpink;
+}
+
+.same-color {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.same-12d {
+  background-color: lightpink;
+}
+
+.samecolor-12d {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+  width: 100%;
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Home-14,  
+.Notifications-13,
+.Messages-5 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Notifications-13 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.fourteen,
+.Three,
+.Five {
+  padding: 3px 12px;
+  background-color: rgb(18, 135, 244);
+  border-radius: 15px;
+}
+
+.main-12e {
+  width: 50%;
+  padding: 10px;
+  border-color: grey;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+body {
+  margin-bottom: 1000px;
+}
